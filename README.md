@@ -6,3 +6,7 @@ Measure the performance of your *Solution Architecture*. How **effective** is yo
 Measure the effectiveness of your *Cloud Architecture*. Measure the **availability** and **resilience** of the cloud in **delivering** the solution.
 
 Measure adherence to **compliance** by both the *Solution* and *Cloud Architecture*.
+
+## Dependencies
+
+- Backstage
