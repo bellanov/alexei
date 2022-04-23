@@ -13,4 +13,6 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 
 ## Architecture
 
-Define nebulyzer's architecture.
+The projects and relationships are defined in the diagram below.
+
+<diagram>
