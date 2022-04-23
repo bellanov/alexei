@@ -13,7 +13,7 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 
 ## Architecture
 
-The projects and relationships are defined in the diagram below.
+The projects and potential relationships between **salt-masters** and **salt-minions** are defined in the diagram below.
 
 <diagram>
 
