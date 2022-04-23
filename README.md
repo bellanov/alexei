@@ -17,4 +17,4 @@ The projects and relationships are defined in the diagram below.
 
 <diagram>
 
-![Nebulyzer Diagram](./diagram/nebulyzer_diagram.png)
+![Nebulyzer Diagram](./diagram/nebulyzer_diagram.svg)
