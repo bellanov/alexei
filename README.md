@@ -16,3 +16,5 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 The projects and relationships are defined in the diagram below.
 
 <diagram>
+
+![Nebulyzer Diagram](./diagram/nebulyzer_diagram.png)
