@@ -10,3 +10,7 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 ## Dependencies
 
 - Backstage
+
+## Architecture
+
+Define nebulyzer's architecture.
