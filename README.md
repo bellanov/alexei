@@ -9,7 +9,7 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 
 ## Dependencies
 
-- Backstage
+- [Backstage](https://backstage.io/docs/getting-started/) - development **portal** consolidating projects, workflows, etc.
 
 ## Architecture
 
