@@ -13,8 +13,6 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 
 ## Architecture
 
-The projects and potential relationships between **salt-masters** and **salt-minions** are defined in the diagram below.
-
-<diagram>
+The projects and potential relationships between **_nebulyzer_** ( **salt-master** ) and **salt-minions** are defined in the diagram below.
 
 ![Nebulyzer Diagram](./diagram/nebulyzer_diagram.svg)
