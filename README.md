@@ -19,7 +19,7 @@ Powered by a **centralized software catalog**, Backstage restores order to your 
 
 ## Architecture
 
-The projects and potential relationships between **_nebulyzer_** ( **salt-master** ) and **salt-minions** are defined in the diagram below.
+The projects and potential relationships between **_nebulyzer_** and an example architecture are defined in the diagram below.
 
 ![Nebulyzer Diagram](./diagram/nebulyzer_diagram.svg)
 
