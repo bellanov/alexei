@@ -25,4 +25,4 @@ The projects and potential relationships between **_nebulyzer_** and an example 
 
 ## Core Ideas
 
-- As a general rule of thumb, for **_CPU-intensive_** workloads, **_compute_** instances should be procured with appropriate **_scaling groups_**; otherwise utilize **_cloud_** / **_lambda_** functions.
+- As a general rule of thumb, for **_CPU-intensive_** workloads, **_compute_** instances should be procured with appropriate **_scaling groups_**; otherwise utilize **_cloud_** / **_lambda_** / **_serverless_** functions.
