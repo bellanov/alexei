@@ -17,12 +17,12 @@ An open platform for building **developer portals**.
 
 Powered by a **centralized software catalog**, Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy.
 
+## Core Ideas
+
+- As a general rule of thumb, for **_CPU-intensive_** workloads, **_compute_** instances should be procured with appropriate **_scaling groups_**; otherwise utilize **_cloud_** / **_lambda_** / **_serverless_** functions.
+
 ## Architecture
 
 The projects and potential relationships between **_nebulyzer_** and an example architecture are defined in the diagram below.
 
 ![Nebulyzer Diagram](./diagram/nebulyzer_diagram.svg)
-
-## Core Ideas
-
-- As a general rule of thumb, for **_CPU-intensive_** workloads, **_compute_** instances should be procured with appropriate **_scaling groups_**; otherwise utilize **_cloud_** / **_lambda_** / **_serverless_** functions.
