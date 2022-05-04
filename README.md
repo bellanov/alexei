@@ -7,16 +7,6 @@ Measure the effectiveness of your *Cloud Architecture*. Measure the **availabili
 
 Measure adherence to **compliance** by both the *Solution* and *Cloud Architecture*.
 
-## Dependencies
-
-### Backstage
-
-[Backstage](https://backstage.io/)
-
-An open platform for building **developer portals**.
-
-Powered by a **centralized software catalog**, Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy.
-
 ## Core Ideas
 
 - As a general rule of thumb, for **_CPU-intensive_** workloads, **_compute_** instances should be procured with appropriate **_scaling groups_**; otherwise utilize **_cloud_** / **_lambda_** / **_serverless_** functions.
