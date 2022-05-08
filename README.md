@@ -20,4 +20,4 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 
 The projects and potential relationships between **_nebulyzer_** and an example architecture are defined in the diagram below.
 
-![Nebulyzer Diagram](./diagram/nebulyzer_diagram.svg)
+The **architecture** diagram is currently being constructed.
