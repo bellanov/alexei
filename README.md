@@ -9,7 +9,7 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 
 ## Core Ideas
 
-- Deployed in **_Google Cloud Platform (GCP)_**
+- Deployed in **_Google Cloud Platform (GCP)_**.
 - For **_client-facing_** applications and services, **_App Engine_** is considered for all of its benefits OOTB.
 - Monitoring, observing, and reporting will be **_lazily loaded_** as **_Cloud Run_** containers as a means to be as cost-efficient as possible (experiment!@!).
   - Components are spun up and utilized only when they're needed to **_execute_**.
