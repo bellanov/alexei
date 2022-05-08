@@ -12,7 +12,7 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 - For **_client-facing_** applications and services, **_App Engine_** is considered for all of its benefits OOTB.
 - Monitoring, observing, and reporting will be **_lazily loaded_** as **_Cloud Run_** containers as a means to be as cost-efficient as possible (experiment!@!).
   - Components are spun up and utilized only when they're needed to **_execute_**.
-  - **_Cloud Run_** is just painless container management.
+  - Cloud Run is just **_painless_** container management.
 - As a general rule of thumb, for **_CPU-intensive_** workloads, **_compute_** instances should be procured with appropriate **_scaling groups_**; otherwise utilize **_cloud_** / **_lambda_** / **_serverless_** functions.
 - Services that aren't **_CPU-intensive_** are **_lazily loaded_** whenever possible. 
 
