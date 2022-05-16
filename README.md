@@ -23,7 +23,7 @@ The projects and potential relationships between **_nebulyzer_** and an example 
 
 The **architecture** diagram is currently being constructed.
 
-## Configuring your **dev** environment
+## Dev Workflow
 
 Develop and test changes in the *dev* environment.
 
@@ -35,7 +35,7 @@ terraform apply
 terraform destroy
 ```
 
-## Promoting your environment to **production**
+## Prod Workflow
 
 Once changes have been tested, you can promote your configuration to prodution.
 
