@@ -22,3 +22,27 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 The projects and potential relationships between **_nebulyzer_** and an example architecture are defined in the diagram below.
 
 The **architecture** diagram is currently being constructed.
+
+## Configuring your **dev** environment
+
+Develop and test changes in the *dev* environment.
+
+```bash
+cd ../environments/dev
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+```
+
+## Promoting your environment to **production**
+
+Once changes have been tested, you can promote your configuration to prodution.
+
+```bash
+cd ../prod
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+```
