@@ -28,7 +28,7 @@ The **architecture** diagram is currently being constructed.
 Develop and test changes in the *dev* environment.
 
 ```bash
-cd ../environments/dev
+cd ./environments/dev
 terraform init
 terraform plan
 terraform apply
@@ -40,7 +40,7 @@ terraform destroy
 Preview changes with prod resources in the *staging* environment.
 
 ```bash
-cd ../environments/staging
+cd ./environments/staging
 terraform init
 terraform plan
 terraform apply
@@ -51,7 +51,7 @@ terraform apply
 Once changes have been tested, you can promote your configuration to prodution.
 
 ```bash
-cd ../prod
+cd ./environments/prod
 terraform init
 terraform plan
 terraform apply
