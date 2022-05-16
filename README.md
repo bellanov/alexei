@@ -7,12 +7,18 @@ Measure the effectiveness of your *Cloud Architecture*. Measure the **availabili
 
 Measure adherence to **compliance** by both the *Solution* and *Cloud Architecture*.
 
-## Dependencies
+## Core Ideas
 
-- [Backstage](https://backstage.io/docs/getting-started/) - development **portal** consolidating projects, workflows, etc.
+- Deployed in **_Google Cloud Platform (GCP)_**.
+- For **_client-facing_** applications and services, **_App Engine_** is considered for all of its benefits OOTB.
+- Monitoring, observing, and reporting will be **_lazily loaded_** as **_Cloud Run_** containers as a means to be as cost-efficient as possible (experiment!@!).
+  - Components are spun up and utilized only when they're needed to **_execute_**.
+  - Cloud Run is just **_painless_** container management.
+- As a general rule of thumb, for **_CPU-intensive_** workloads, **_compute_** instances should be procured with appropriate **_scaling groups_**; otherwise utilize **_cloud_** / **_lambda_** / **_serverless_** functions.
+- Services that aren't **_CPU-intensive_** are **_lazily loaded_** whenever possible. 
 
 ## Architecture
 
-The projects and potential relationships between **_nebulyzer_** ( **salt-master** ) and **salt-minions** are defined in the diagram below.
+The projects and potential relationships between **_nebulyzer_** and an example architecture are defined in the diagram below.
 
-![Nebulyzer Diagram](./diagram/nebulyzer_diagram.svg)
+The **architecture** diagram is currently being constructed.
