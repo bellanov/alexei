@@ -40,7 +40,7 @@ terraform destroy
 Once changes have been tested, you can promote your configuration to prodution.
 
 ```bash
-cd ../prod
+cd ../environments/prod
 terraform init
 terraform plan
 terraform apply
