@@ -51,11 +51,7 @@ terraform apply
 Once changes have been tested, you can promote your configuration to prodution.
 
 ```bash
-<<<<<<< HEAD
-cd ../environments/prod
-=======
 cd ./environments/prod
->>>>>>> 9d0e648c185b75eaf0a16e277a112b553ba5349d
 terraform init
 terraform plan
 terraform apply
