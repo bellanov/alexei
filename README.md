@@ -35,6 +35,17 @@ terraform apply
 terraform destroy
 ```
 
+## Staging Workflow
+
+Preview changes with prod resources in the *staging* environment.
+
+```bash
+cd ../environments/staging
+terraform init
+terraform plan
+terraform apply
+```
+
 ## Prod Workflow
 
 Once changes have been tested, you can promote your configuration to prodution.
@@ -44,5 +55,4 @@ cd ../prod
 terraform init
 terraform plan
 terraform apply
-terraform destroy
 ```
