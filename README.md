@@ -1,4 +1,4 @@
-# nebulyzer
+# Alexei
 An **Observability** & **Reporting** platform.
 
 Measure the performance of your *Solution Architecture*. How **effective** is your solution at **solving** the problem?
