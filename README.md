@@ -10,6 +10,7 @@ Measure adherence to **compliance** by both the *Solution* and *Cloud Architectu
 ## Core Ideas
 
 - Formal **interface** to _monitoring_, _observability_, and _reporting_.
+- _Drag-and-Drop_ *interface* to the cloud provider.
 - Deployed in **_Google Cloud Platform (GCP)_**.
 - For **_client-facing_** applications and services, **_App Engine_** is considered for all of its benefits OOTB.
 - Monitoring, observing, and reporting will be **_lazily loaded_** as **_Cloud Run_** containers as a means to be as cost-efficient as possible (experiment!@!).
