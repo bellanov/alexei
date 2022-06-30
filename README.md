@@ -7,6 +7,8 @@ Measure the effectiveness of your *Cloud Architecture*. Measure the **availabili
 
 Measure adherence to **compliance** by both the *Solution* and *Cloud Architecture*.
 
+**Visualize** and **control** aspects of your *Cloud Architecture* via an interactive _Drag-and-Drop_ interface.
+
 ## Core Ideas
 
 - Formal **interface** to _monitoring_, _observability_, and _reporting_.
