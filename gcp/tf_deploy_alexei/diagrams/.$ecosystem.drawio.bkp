@@ -1,0 +1,98 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="uOaVHF2JH9yciMryiiNQ">
+    <mxGraphModel dx="954" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QFEwAYVmoStoT9FB30I3-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="250" width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-2" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;container=0;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-16">
+          <mxGeometry width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-3" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-16">
+          <mxGeometry x="20" y="10" width="23" height="20" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QFEwAYVmoStoT9FB30I3-16" source="QFEwAYVmoStoT9FB30I3-2" target="QFEwAYVmoStoT9FB30I3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;alexei-gcp&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;&lt;h2&gt;Projects&lt;/h2&gt;&lt;div&gt;A summary of GCP projects and their deployed infrastructure.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;h3&gt;alexei&lt;/h3&gt;&lt;div&gt;Lorem ipsum dolor dolet.&lt;/div&gt;&lt;div&gt;&lt;h3&gt;bellanov&lt;/h3&gt;&lt;div&gt;Lorem ipsum dolor dolet.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;h3&gt;fantasyace&lt;/h3&gt;&lt;div&gt;Lorem ipsum dolor dolet.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;h3&gt;puter&lt;/h3&gt;&lt;div&gt;Lorem ipsum dolor dolet.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;h3&gt;terraform-modules&lt;/h3&gt;&lt;div&gt;Lorem ipsum dolor dolet.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="400" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-4" value="&lt;b&gt;alexei&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729.9953846153846" y="250" width="285.53846153846155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="640" width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-19" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;container=0;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-18">
+          <mxGeometry width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-20" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-18">
+          <mxGeometry x="20" y="10" width="23" height="20" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QFEwAYVmoStoT9FB30I3-18" source="QFEwAYVmoStoT9FB30I3-19" target="QFEwAYVmoStoT9FB30I3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-22" value="&lt;b&gt;bellanov&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729.9953846153846" y="640" width="285.53846153846155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="1040" width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-24" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;container=0;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-23">
+          <mxGeometry width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-25" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-23">
+          <mxGeometry x="20" y="10" width="23" height="20" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QFEwAYVmoStoT9FB30I3-23" source="QFEwAYVmoStoT9FB30I3-24" target="QFEwAYVmoStoT9FB30I3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-27" value="&lt;b&gt;fantasyace&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729.9953846153846" y="1040" width="285.53846153846155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="1440" width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-29" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;container=0;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-28">
+          <mxGeometry width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-30" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-28">
+          <mxGeometry x="20" y="10" width="23" height="20" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QFEwAYVmoStoT9FB30I3-28" source="QFEwAYVmoStoT9FB30I3-29" target="QFEwAYVmoStoT9FB30I3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-32" value="&lt;b&gt;puter&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729.9953846153846" y="1440" width="285.53846153846155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="1840" width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-34" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;whiteSpace=wrap;container=0;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-33">
+          <mxGeometry width="640" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-35" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="QFEwAYVmoStoT9FB30I3-33">
+          <mxGeometry x="20" y="10" width="23" height="20" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QFEwAYVmoStoT9FB30I3-33" source="QFEwAYVmoStoT9FB30I3-34" target="QFEwAYVmoStoT9FB30I3-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QFEwAYVmoStoT9FB30I3-37" value="&lt;b&gt;terraform-modules&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="729.9953846153846" y="1840" width="285.53846153846155" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
